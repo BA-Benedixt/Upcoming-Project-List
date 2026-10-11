@@ -1,2 +1,7 @@
 # Upcoming-Project-List
 List of Projects for Future Development
+  1. BRS / BRD generator. It drafts a Business Requirements Specification from a project brief and can pull in your saved stories and diagrams. You write BRS documents for a living, so this one fits your profile best.
+
+  2. Backlog prioritizer. Add items, score them with MoSCoW, WSJF or RICE, and get a ranked list and a chart. It needs no AI, so it works offline for every visitor.
+
+  3. Meeting notes to decisions and actions. Paste rough notes and get decisions, action items with owners and dates, and open questions, with a stakeholder RACI view. It also works in demo mode without a key.
